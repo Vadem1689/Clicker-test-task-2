@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 41b98f56e7c937a40a2986ad4e0010d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3685454016503298792
+    second: wooden-round-video-game-buttons-vector-2255247_0
+  - first:
+      213: -500780315076446356
+    second: wooden-round-video-game-buttons-vector-2255247_1
+  - first:
+      213: -344637604896799476
+    second: wooden-round-video-game-buttons-vector-2255247_2
+  - first:
+      213: 2139590115507562748
+    second: wooden-round-video-game-buttons-vector-2255247_3
+  - first:
+      213: -3600396812281248276
+    second: wooden-round-video-game-buttons-vector-2255247_4
+  - first:
+      213: 9019359909297687263
+    second: wooden-round-video-game-buttons-vector-2255247_5
+  - first:
+      213: 6000547641776252780
+    second: wooden-round-video-game-buttons-vector-2255247_6
+  - first:
+      213: -3338721976264044596
+    second: wooden-round-video-game-buttons-vector-2255247_7
+  - first:
+      213: 8268147880324861228
+    second: wooden-round-video-game-buttons-vector-2255247_8
+  - first:
+      213: -3396105041334323410
+    second: wooden-round-video-game-buttons-vector-2255247_9
+  - first:
+      213: 1692580350431999389
+    second: wooden-round-video-game-buttons-vector-2255247_10
+  - first:
+      213: 4377523065986089553
+    second: wooden-round-video-game-buttons-vector-2255247_11
+  - first:
+      213: -9209091370751591358
+    second: wooden-round-video-game-buttons-vector-2255247_12
+  - first:
+      213: 7630823167071125621
+    second: wooden-round-video-game-buttons-vector-2255247_13
+  - first:
+      213: -3456501108233175709
+    second: wooden-round-video-game-buttons-vector-2255247_14
+  - first:
+      213: 4829401033157480890
+    second: wooden-round-video-game-buttons-vector-2255247_15
+  - first:
+      213: -1754971287019283009
+    second: wooden-round-video-game-buttons-vector-2255247_16
+  - first:
+      213: -7442353437896016429
+    second: wooden-round-video-game-buttons-vector-2255247_17
+  - first:
+      213: 6067474742396952225
+    second: wooden-round-video-game-buttons-vector-2255247_18
+  - first:
+      213: -5858737188541158570
+    second: wooden-round-video-game-buttons-vector-2255247_19
+  - first:
+      213: 5966643170690358638
+    second: wooden-round-video-game-buttons-vector-2255247_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 168
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea37b1d6ec552330800000000000000
+      internalID: 3685454016503298792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 896
+        width: 171
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673c59e4fedc09f0800000000000000
+      internalID: -500780315076446356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 169
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0582ef9ce9973bf0800000000000000
+      internalID: -344637604896799476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 896
+        width: 174
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e3cfbfd951bd10800000000000000
+      internalID: 2139590115507562748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 896
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50789cc22d80ec0800000000000000
+      internalID: -3600396812281248276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 168
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda86170d043b2d70800000000000000
+      internalID: 9019359909297687263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 690
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a1e5b94a364350800000000000000
+      internalID: 6000547641776252780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 690
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfcdf84d0a7aa1d0800000000000000
+      internalID: -3338721976264044596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 690
+        width: 174
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d892dc0bc5eb270800000000000000
+      internalID: 8268147880324861228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 690
+        width: 171
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ba5f457c9ed0d0800000000000000
+      internalID: -3396105041334323410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 168
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953e4d6cd04d7710800000000000000
+      internalID: 1692580350431999389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 488
+        width: 171
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520e20190610cc30800000000000000
+      internalID: 4377523065986089553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 488
+        width: 169
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c7c3ea03cb23080800000000000000
+      internalID: -9209091370751591358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 488
+        width: 171
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57088199d3126e960800000000000000
+      internalID: 7630823167071125621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 489
+        width: 173
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d740e2e8a0800d0800000000000000
+      internalID: -3456501108233175709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 168
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1914307aa750340800000000000000
+      internalID: 4829401033157480890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 282
+        width: 171
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9436a9e615a7e0800000000000000
+      internalID: -1754971287019283009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 282
+        width: 171
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddfc41caf277b890800000000000000
+      internalID: -7442353437896016429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 283
+        width: 175
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9930a120043450800000000000000
+      internalID: 6067474742396952225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 283
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b22a4619591bea0800000000000000
+      internalID: -5858737188541158570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-round-video-game-buttons-vector-2255247_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 973
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5282e956cdc250800000000000000
+      internalID: 5966643170690358638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wooden-round-video-game-buttons-vector-2255247_8: 8268147880324861228
+      wooden-round-video-game-buttons-vector-2255247_14: -3456501108233175709
+      wooden-round-video-game-buttons-vector-2255247_5: 9019359909297687263
+      wooden-round-video-game-buttons-vector-2255247_13: 7630823167071125621
+      wooden-round-video-game-buttons-vector-2255247_15: 4829401033157480890
+      wooden-round-video-game-buttons-vector-2255247_3: 2139590115507562748
+      wooden-round-video-game-buttons-vector-2255247_17: -7442353437896016429
+      wooden-round-video-game-buttons-vector-2255247_18: 6067474742396952225
+      wooden-round-video-game-buttons-vector-2255247_9: -3396105041334323410
+      wooden-round-video-game-buttons-vector-2255247_16: -1754971287019283009
+      wooden-round-video-game-buttons-vector-2255247_7: -3338721976264044596
+      wooden-round-video-game-buttons-vector-2255247_19: -5858737188541158570
+      wooden-round-video-game-buttons-vector-2255247_12: -9209091370751591358
+      wooden-round-video-game-buttons-vector-2255247_20: 5966643170690358638
+      wooden-round-video-game-buttons-vector-2255247_0: 3685454016503298792
+      wooden-round-video-game-buttons-vector-2255247_2: -344637604896799476
+      wooden-round-video-game-buttons-vector-2255247_10: 1692580350431999389
+      wooden-round-video-game-buttons-vector-2255247_11: 4377523065986089553
+      wooden-round-video-game-buttons-vector-2255247_6: 6000547641776252780
+      wooden-round-video-game-buttons-vector-2255247_4: -3600396812281248276
+      wooden-round-video-game-buttons-vector-2255247_1: -500780315076446356
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

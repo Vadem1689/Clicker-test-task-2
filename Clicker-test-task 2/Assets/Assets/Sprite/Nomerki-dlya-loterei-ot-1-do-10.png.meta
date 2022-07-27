@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 6e1387177ac39c04c805518a7da89b42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3407196853949020559
+    second: Nomerki-dlya-loterei-ot-1-do-10_0
+  - first:
+      213: 7313141349955208928
+    second: Nomerki-dlya-loterei-ot-1-do-10_1
+  - first:
+      213: -5953066070194506474
+    second: Nomerki-dlya-loterei-ot-1-do-10_2
+  - first:
+      213: 2197318830190655655
+    second: Nomerki-dlya-loterei-ot-1-do-10_3
+  - first:
+      213: -5719961903819718338
+    second: Nomerki-dlya-loterei-ot-1-do-10_4
+  - first:
+      213: 5870280336480905549
+    second: Nomerki-dlya-loterei-ot-1-do-10_5
+  - first:
+      213: -3494873904637435381
+    second: Nomerki-dlya-loterei-ot-1-do-10_6
+  - first:
+      213: -6185081819085388575
+    second: Nomerki-dlya-loterei-ot-1-do-10_7
+  - first:
+      213: 7283980519911903553
+    second: Nomerki-dlya-loterei-ot-1-do-10_8
+  - first:
+      213: -4282365453503929757
+    second: Nomerki-dlya-loterei-ot-1-do-10_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 210
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b57f8c7bc84f20800000000000000
+      internalID: 3407196853949020559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 210
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60d44af4f7d7560800000000000000
+      internalID: 7313141349955208928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 211
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61530a923f5726da0800000000000000
+      internalID: -5953066070194506474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 210
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a87acb85d17e7e10800000000000000
+      internalID: 2197318830190655655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 211
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e310f0244fc9e90b0800000000000000
+      internalID: -5719961903819718338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 70
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a7eb2ddc677150800000000000000
+      internalID: 5870280336480905549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 70
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02ad4b43b6bf7fc0800000000000000
+      internalID: -3494873904637435381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 70
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e440b20bdc2a2aa0800000000000000
+      internalID: -6185081819085388575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 70
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d630d0b5e51560800000000000000
+      internalID: 7283980519911903553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nomerki-dlya-loterei-ot-1-do-10_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 70
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626e791f4bf194c0800000000000000
+      internalID: -4282365453503929757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nomerki-dlya-loterei-ot-1-do-10_5: 5870280336480905549
+      Nomerki-dlya-loterei-ot-1-do-10_4: -5719961903819718338
+      Nomerki-dlya-loterei-ot-1-do-10_8: 7283980519911903553
+      Nomerki-dlya-loterei-ot-1-do-10_2: -5953066070194506474
+      Nomerki-dlya-loterei-ot-1-do-10_0: 3407196853949020559
+      Nomerki-dlya-loterei-ot-1-do-10_3: 2197318830190655655
+      Nomerki-dlya-loterei-ot-1-do-10_9: -4282365453503929757
+      Nomerki-dlya-loterei-ot-1-do-10_1: 7313141349955208928
+      Nomerki-dlya-loterei-ot-1-do-10_6: -3494873904637435381
+      Nomerki-dlya-loterei-ot-1-do-10_7: -6185081819085388575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
