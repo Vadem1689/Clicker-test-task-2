@@ -13,8 +13,9 @@ public class Enemy : MonoBehaviour
     private Enemy enemy;
     Animator anim;
    
-    public GameObject script;
-    
+  
+    public Destruction destruction;
+
 
     private void Start()
     {
@@ -25,26 +26,33 @@ public class Enemy : MonoBehaviour
    
     private void Update()
     {
-        
-        dist = Vector3.Distance(plaer.transform.position,transform.position);
-        if (dist>Radius)
+        if (destruction.a == true)
         {
             nav.enabled = false;
-            anim.Play("Idle");
         }
-        
-        else if (dist < 2.5)
+        else
         {
-            anim.Play("Attack");
-            nav.enabled = false;
-        }
-        else 
-        {
-            nav.enabled = true;
-            nav.SetDestination(plaer.transform.position);
-            anim.Play("Run");
-        }
+            dist = Vector3.Distance(plaer.transform.position, transform.position);
+            if (dist > Radius)
+            {
+                nav.enabled = false;
+                anim.Play("Idle");
+            }
 
+            else if (dist < 2.2f)
+            {
+                anim.Play("Attack");
+                nav.enabled = false;
+            }
+            else
+            {
+                nav.enabled = true;
+                nav.SetDestination(plaer.transform.position);
+                anim.Play("Run");
+            }
+        }
+        
+       
     }
     
 }
